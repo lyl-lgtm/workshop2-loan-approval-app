@@ -4,5 +4,9 @@ venv/
 .streamlit/secrets.toml
 *.pyc
 Thumbs.db
+data/
+notebooks/
+toy-app.py
+src/__pycache__/
 
 !.gitignore
